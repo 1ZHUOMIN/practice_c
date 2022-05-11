@@ -1,4 +1,3 @@
-#选择语句
 #include <stdio.h>
 int main()
 {
