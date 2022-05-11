@@ -4,7 +4,7 @@ int main()
     int line = 0;
     while(line<20000)
     {
-        printf("hi~\n");
+        printf("hi~%d\n", line);
         line++;
     }
     printf("yes!\n");
