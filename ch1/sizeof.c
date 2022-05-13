@@ -1,3 +1,4 @@
+//sizeof用来计算内存大小，单位是字节
 #include <stdio.h>
 int main()
 {
